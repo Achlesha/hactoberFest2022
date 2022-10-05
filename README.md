@@ -9,8 +9,8 @@
 
 2) **Star this repository**⭐
 
-3) **Add code in the repository you've forked, create a pull request to merge it in main repository.**
-### Note: Your repository will be reviewd and merged accordingly. <br> Add code according to your need with proper extension eg `bubble_sort.cpp` `linear_search.py`
+3) **Add code in the repository you've forked, create a pull request, so that it will be reviewed and merged in the main repository.**
+### Note: Add code according to your need with proper extension eg `bubble_sort.cpp` `linear_search.py`
 
 
 # Some Code Guidelines:
