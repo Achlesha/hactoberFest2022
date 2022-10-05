@@ -1,4 +1,4 @@
-# hactoberFest2022
+# hactoberFest2022/DSA
 
 # Hey 👋 everyone , hacktoberfest is back with biggest beginners friendly opensource event. Event has been already started from 1st of October and will remain upto 31st October 2022. 
 
