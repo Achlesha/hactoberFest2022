@@ -12,6 +12,7 @@
 3) **Add code in the repository you've forked, create a pull request, so that it will be reviewed and merged in the main repository.**
 ### Note: Add code according to your need with proper extension eg `bubble_sort.cpp` `linear_search.py`
 
+4) **After creating a pull request,click the 'propose changes' button.**
 
 # Some Code Guidelines:
 
