@@ -1,0 +1,17 @@
+/* swap two numbers using third variable in c++ .*/
+#include<iostream>
+using namespace std;
+int main(){
+int a,b,c;
+cout<<"Enter the numbers"<<endl;
+cin>>a>>b;
+cout<<"value of a ="<<a<<" and value of b="<<b<<" before swapping."<<"\n";
+c=a;
+a=b;
+b=c;
+cout<<"value of a="<<a<<" and value of b="<<b<<" after swapping."<<"\n";
+
+return 0;
+
+
+}
