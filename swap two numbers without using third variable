@@ -1,0 +1,15 @@
+//WAP to c++ swap two numbers without using third variable.
+#include<iostream>
+using namespace std;
+int main(){
+int a,b;
+cin>>a>>b;//enter variables..
+cout<<"value of a="<<a<<" value of b="<<b<<" before swapping."<<"\n";
+a=a+b;
+b=a-b;
+a=a-b;
+
+cout<<"value of a="<<a<<" value of b="<<b<<" after swapping."<<"\n";
+return 0;
+
+}
